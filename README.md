@@ -1,4 +1,3 @@
-"# Python-Portfolio" 
 # AI Smart Resume & Cover Letter Tailor
 
 ## Overview
